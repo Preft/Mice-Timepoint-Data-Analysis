@@ -1,5 +1,8 @@
-# The-Power-of-Plots
-Mouse Timepoint Data analysis
-
+# Mouse-Timepoint-Data-Analysis
 Analysis of Timepoint Data of mice throughout studies.
-Synopsis is added at the end.
+
+### Instructions
+Ensure you have the modules used in the ipynb files installed in your environment. Run pymaceuticals_starter.ipynb in jupyter notebooks.
+
+## Visuals:
+![](images/MouseAnalysisExample.png)
