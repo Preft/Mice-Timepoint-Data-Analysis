@@ -1,4 +1,4 @@
-# Mouse-Timepoint-Data-Analysis
+# Mice-Timepoint-Data-Analysis
 Analysis of Timepoint Data of mice throughout studies.
 
 ### Instructions
